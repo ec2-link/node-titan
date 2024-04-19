@@ -13,7 +13,7 @@ id="00254F36-A1CE-4FA4-9ACF-3F3949C55F03"  # ID yang dimasukkan secara langsung
 
 container_count=5  # Jumlah node yang ingin dibuat
 
-disk_size_gb=6  # Ukuran hard disk setiap node dalam GB
+disk_size_gb=3  # Ukuran hard disk setiap node dalam GB
 
 volume_dir="/mnt/docker_volumes"  # Direktori penyimpanan volume data
 
