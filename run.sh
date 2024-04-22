@@ -9,7 +9,7 @@ fi
 
 echo "=======================Titan Node=======================" 
 
-id="9A2D81B2-2364-4AF1-8A4D-C6FF4E7C9567"  # ID yang dimasukkan secara langsung
+id="AEE02DD7-BD44-4FBD-A779-FFD74A2448A3"  # ID yang dimasukkan secara langsung
 
 container_count=5  # Jumlah node yang ingin dibuat
 
