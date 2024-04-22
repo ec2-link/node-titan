@@ -11,9 +11,9 @@ echo "=======================Titan Node======================="
 
 id="AEE02DD7-BD44-4FBD-A779-FFD74A2448A3"  # ID yang dimasukkan secara langsung
 
-container_count=5  # Jumlah node yang ingin dibuat
+container_count=1  # Jumlah node yang ingin dibuat
 
-disk_size_gb=3  # Ukuran hard disk setiap node dalam GB
+disk_size_gb=10  # Ukuran hard disk setiap node dalam GB
 
 volume_dir="/mnt/docker_volumes"  # Direktori penyimpanan volume data
 
